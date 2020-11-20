@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+
+body {
+	font-family: Pacifico;
+}
+.wholePage {
+	background:blue;
+	min-height:600px;
+	display:grid;
+	grid-template-columns:50px 1fr 1fr;
+	grid-template-rows:50px 1fr;
+
+}
+
+.elem1 {
+	background:red;
+
+}
+
+
